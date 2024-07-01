@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Drple</title>
+    <link rel="icon" type="image/x-icon" href="icons/wordle.webp">
+    <style>
+
+      p {
+        color: white;
+        font-family: sans-serif;
+        font-weight:600;
+      }
+
+      #correct {
+        background-color: green
+      }
+      body {
+       background-color: #303030;
+       counter-reset: letters;
+      }
+
+      #window {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 98vw;
+        height: 98vh;
+      }
+
+      #grid {
+        display: inline-grid;
+        grid-template-rows: auto auto auto;
+        grid-template-columns: auto auto auto;
+        column-gap: 2px;
+        row-gap: 4px;
+        grid-template-columns: repeat( 36,1fr);
+        grid-template-rows: repeat(6, 1fr);
+      }
+
+      #letterbox {
+        position: sticky;
+        top: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        grid-row: 1 6;
+        grid-column: 1 36;
+        background-color: dimgray;
+        width: 50px;
+        height: 50px;
+        border-radius: 5px;
+        border: 2px solid grey;
+      }
+
+    </style>
+  </head>
+  <body>
+    <div id="window">
+      <div id="grid">
+        <div id="letterbox"><p>H</p></div> 
+        <div id="letterbox"><p>I</p></div> 
+        <div id="letterbox"><p>P</p></div> 
+        <div id="letterbox"><p>P</p></div> 
+        <div id="letterbox"><p>O</p></div> 
+        <div id="letterbox"><p>P</p></div> 
+        <div id="letterbox"><p>O</p></div> 
+        <div id="letterbox"><p>T</p></div> 
+        <div id="letterbox"><p>O</p></div> 
+        <div id="letterbox"><p>M</p></div> 
+        <div id="letterbox"><p>O</p></div> 
+        <div id="letterbox"><p>N</p></div> 
+        <div id="letterbox"><p>S</p></div> 
+        <div id="letterbox"><p>T</p></div> 
+        <div id="letterbox"><p>R</p></div> 
+        <div id="letterbox"><p>O</p></div> 
+        <div id="letterbox"><p>S</p></div> 
+        <div id="letterbox"><p>E</p></div> 
+        <div id="letterbox"><p>S</p></div> 
+        <div id="letterbox"><p>Q</p></div> 
+        <div id="letterbox"><p>U</p></div> 
+        <div id="letterbox"><p>I</p></div> 
+        <div id="letterbox"><p>P</p></div> 
+        <div id="letterbox"><p>P</p></div> 
+        <div id="letterbox"><p>E</p></div> 
+        <div id="letterbox"><p>D</p></div> 
+        <div id="letterbox"><p>A</p></div> 
+        <div id="letterbox"><p>L</p></div> 
+        <div id="letterbox"><p>I</p></div> 
+        <div id="letterbox"><p>O</p></div> 
+        <div id="letterbox"><p>P</p></div> 
+        <div id="letterbox"><p>H</p></div> 
+        <div id="letterbox"><p>O</p></div> 
+        <div id="letterbox"><p>B</p></div> 
+        <div id="letterbox"><p>I</p></div> 
+        <div id="letterbox"><p>A</p></div> 
+        <div id="letterbox"><p>H</p></div> 
+        <div id="letterbox"><p>I</p></div> 
+        <div id="letterbox"><p>P</p></div> 
+        <div id="letterbox"><p>P</p></div> 
+        <div id="letterbox"><p>O</p></div> 
+        <div id="letterbox"><p>P</p></div> 
+        <div id="letterbox"><p>O</p></div> 
+        <div id="letterbox"><p>T</p></div> 
+        <div id="letterbox"><p>O</p></div> 
+        <div id="letterbox"><p>M</p></div> 
+        <div id="letterbox"><p>O</p></div> 
+        <div id="letterbox"><p>N</p></div> 
+        <div id="letterbox"><p>S</p></div> 
+        <div id="letterbox"><p>T</p></div> 
+        <div id="letterbox"><p>R</p></div> 
+        <div id="letterbox"><p>O</p></div> 
+        <div id="letterbox"><p>S</p></div> 
+        <div id="letterbox"><p>E</p></div> 
+        <div id="letterbox"><p>S</p></div> 
+        <div id="letterbox"><p>Q</p></div> 
+        <div id="letterbox"><p>U</p></div> 
+        <div id="letterbox"><p>I</p></div> 
+        <div id="letterbox"><p>P</p></div> 
+        <div id="letterbox"><p>P</p></div> 
+        <div id="letterbox"><p>E</p></div> 
+        <div id="letterbox"><p>D</p></div> 
+        <div id="letterbox"><p>A</p></div> 
+        <div id="letterbox"><p>L</p></div> 
+        <div id="letterbox"><p>I</p></div> 
+        <div id="letterbox"><p>O</p></div> 
+        <div id="letterbox"><p>P</p></div> 
+        <div id="letterbox"><p>H</p></div> 
+        <div id="letterbox"><p>O</p></div> 
+        <div id="letterbox"><p>B</p></div> 
+        <div id="letterbox"><p>I</p></div> 
+        <div id="letterbox"><p>A</p></div>        
+        <div id="letterbox"><p>H</p></div> 
+        <div id="letterbox"><p>I</p></div> 
+        <div id="letterbox"><p>P</p></div> 
+        <div id="letterbox"><p>P</p></div> 
+        <div id="letterbox"><p>O</p></div> 
+        <div id="letterbox"><p>P</p></div> 
+        <div id="letterbox"><p>O</p></div> 
+        <div id="letterbox"><p>T</p></div> 
+        <div id="letterbox"><p>O</p></div> 
+        <div id="letterbox"><p>M</p></div> 
+        <div id="letterbox"><p>O</p></div> 
+        <div id="letterbox"><p>N</p></div> 
+        <div id="letterbox"><p>S</p></div> 
+        <div id="letterbox"><p>T</p></div> 
+        <div id="letterbox"><p>R</p></div> 
+        <div id="letterbox"><p>O</p></div> 
+        <div id="letterbox"><p>S</p></div> 
+        <div id="letterbox"><p>E</p></div> 
+        <div id="letterbox"><p>S</p></div> 
+        <div id="letterbox"><p>Q</p></div> 
+        <div id="letterbox"><p>U</p></div> 
+        <div id="letterbox"><p>I</p></div> 
+        <div id="letterbox"><p>P</p></div> 
+        <div id="letterbox"><p>P</p></div> 
+        <div id="letterbox"><p>E</p></div> 
+        <div id="letterbox"><p>D</p></div> 
+        <div id="letterbox"><p>A</p></div> 
+        <div id="letterbox"><p>L</p></div> 
+        <div id="letterbox"><p>I</p></div> 
+        <div id="letterbox"><p>O</p></div> 
+        <div id="letterbox"><p>P</p></div> 
+        <div id="letterbox"><p>H</p></div> 
+        <div id="letterbox"><p>O</p></div> 
+        <div id="letterbox"><p>B</p></div> 
+        <div id="letterbox"><p>I</p></div> 
+        <div id="letterbox"><p>A</p></div> 
+      </div>
+    </div>
+  </body>
+  <script>
+    
+  </script>
+</html>
