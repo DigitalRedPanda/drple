@@ -175,7 +175,7 @@
     
     dicto.onload = () => {
       console.log(dicto.readyState)
-      if (dicto.readyState === xhr.DONE) {
+      if (dicto.readyState === dicto.DONE) {
         if (dicto.status === 200) {
           console.log(dicto.responseText);
         }
