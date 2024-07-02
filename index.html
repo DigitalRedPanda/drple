@@ -173,11 +173,11 @@
     dicto.open("GET", "https://raw.githubusercontent.com/DigitalRedPanda/drple.github.io/main/new%20english%20words.txt")
     dicto.responseType = "text"
     
-    xhr.onload = () => {
-      console.log(xhr.readyState)
-      if (xhr.readyState === xhr.DONE) {
-        if (xhr.status === 200) {
-          console.log(xhr.responseText);
+    dicto.onload = () => {
+      console.log(dicto.readyState)
+      if (dicto.readyState === xhr.DONE) {
+        if (dicto.status === 200) {
+          console.log(dicto.responseText);
         }
       }
     }
