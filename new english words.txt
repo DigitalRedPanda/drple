@@ -98,7 +98,7 @@ protest: احت  ج  اج
 grief: great sadness
 Transcendental: relating to a spiritual or nonphysical realm.
 stained: م  ل  ط   خ  mixed with something (commonly with liquid) 
-trench
+trench: a deep hole dug by soldiers and used as a place from which they can attack the enemy while being hidden.
 brand: the image of a mark
 trademark: logo
 campaign: an organized course of action to achieve a goal; group of people who have the same will attempting to achieve what they want; push; crusade; promotion(ت   ر  و  ي   ج   ); (ح مل ة )
@@ -421,7 +421,7 @@ perspicacious: having a ready insight into and understanding of things.
 paradigm: a typical example or pattern of something; a model.
 aplomb: confidence and style.
 voracious: wanting or devouring great quantities of food.
-kettle : a container for boiling water, that has a lid, handle, and spout and is made from plastic or metal.
+kettle: a container for boiling water, that has a lid, handle, and spout and is made from plastic or metal.
 swerve: change or cause to change direction abruptly.
 fatuous: silly and pointless.
 moss: a small flowerless green plant that lacks true roots, growing in damp habitats and reproducing through spores released from stalked capsules.
@@ -467,7 +467,7 @@ subsidiary: less important than but related or supplementary to something.
 startle: cause (a person or animal) to feel sudden shock or alarm.
 cadet: a young trainee in the armed services or police force.
 stroll:  walk in a leisurely(to walk in a slow relaxed way, especially for pleasure) way.
-handkerchief : a square of cotton or other finely woven material, typically carried in one's pocket and intended for blowing or wiping one's nose; napkin.
+handkerchief: a square of cotton or other finely woven material, typically carried in one's pocket and intended for blowing or wiping one's nose; napkin.
 embroider: decorate (cloth) by sewing patterns on it with thread.
 mortify: cause (someone) to feel embarrassed, ashamed, or humiliated.
 petrify: change (organic matter) into a stony concretion by encrusting or replacing its original substance with a calcareous, siliceous, or other mineral deposit.
@@ -478,7 +478,7 @@ Souvenir: a thing that is kept as a reminder of a person, place, or event.
 probity: the quality of having strong moral principles; honesty and decency; virtuousness
 pidgin: a grammatically simplified form of a language, used for communication between people not sharing a common language. Pidgins have a limited vocabulary, some elements of which are taken from local languages, and are not native languages, but arise out of language contact between speakers of other languages.
 retain: to keep or continue to have something.
-telepathic : supposedly capable of transmitting thoughts to other people and of knowing their thoughts; psychic.
+telepathic: supposedly capable of transmitting thoughts to other people and of knowing their thoughts; psychic.
 hark: listen.
 confetti: small pieces of coloured paper that you throw at a celebration, especially over two people who have just been married.
 Carmelite: a friar or nun of a contemplative Catholic order founded at Mount Carmel during the Crusades.
@@ -503,7 +503,7 @@ incite: encourage or stir up (violent or unlawful behavior); provoke.
 sobbed: cry noisily, making loud, vermilionlies  gasps.
 tremulous: shaking or quivering slightly.
 blaze: burn fiercely or brightly(whether if it was metaphorical or realistic).
-premeditate : think out or plan (an action, especially a crime) beforehand.
+premeditate: think out or plan (an action, especially a crime) beforehand.
 saddle: put a saddle on (a horse).
 altar: the table in a Christian church at which the bread and wine are consecrated in communion services.
 corridor: a long passage in a building or train, especially with rooms on either side.
@@ -529,8 +529,8 @@ post office: the public department or corporation responsible for mail services 
 lampshade: a cover for a lamp, used to soften or direct its light.
 Cemetery: a burial ground; a graveyard.
 commodity: a raw material or primary agricultural product that can be bought and sold, such as copper or coffee.
-juridiction : the official power to make legal decisions and judgments.
-cavendish : tobacco softened, sweetened, and formed into cakes.
+juridiction: the official power to make legal decisions and judgments.
+cavendish: tobacco softened, sweetened, and formed into cakes.
 grudge: a persistent feeling of ill will or resentment(fury) resulting from a past insult or injury.
 eyelash: each of the short curved hairs growing on the edges of the eyelids, serving to protect the eyes from dust particles.
 lid: a removable or hinged cover for the top of a container.
@@ -587,7 +587,7 @@ zeitgeist: the defining spirit or mood of a particular period of history as show
 grapple: engage in a close fight or struggle without weapons; wrestle.
 venturing: dare to do something or go somewhere that may be dangerous or unpleasant.
 omission: a person or thing that has been left out or excluded.
-rigorously : in an extremely thorough and careful way.
+rigorously: in an extremely thorough and careful way.
 candour: the quality of being open and honest in expression; frankness.
 ubiquitous: present, appearing, or found everywhere.
 enfold: surround; envelop.
@@ -628,13 +628,13 @@ ration: a fixed amount of a commodity officially allowed to each person during a
 locust: a large and mainly tropical grasshopper with strong powers of flight. It is usually solitary, but from time to time there is a population explosion, and it migrates in vast swarms that cause extensive damage to crops.
 forging: make or shape (a metal object) by heating it in a fire or furnace and beating or hammering it.
 morale: the confidence, enthusiasm, and discipline of a person or group at a particular time.
-subsistence : the action or fact of maintaining or supporting oneself at a minimum level.
+subsistence: the action or fact of maintaining or supporting oneself at a minimum level.
 massacre: an indiscriminate and brutal slaughter of people; butchery.
 loaf: a quantity of bread that is shaped and baked in one piece and usually sliced before being eaten.
 shivering: shaking slightly and uncontrollably as a result of being cold, frightened, or excited.
 rack: a framework, typically with rails, bars, hooks, or pegs, for holding or storing things; shelf.
 mustard: a pungent-tasting yellow or brown paste made from the crushed seeds of certain plants, typically eaten with meat or used as a cooking ingredient.
-conspicuous : standing out so as to be clearly visible.
+conspicuous: standing out so as to be clearly visible.
 insist: demand something forcefully, not accepting refusal.
 cinnamon: an aromatic spice made from the peeled, dried, and rolled bark of a Southeast Asian tree.
 rant: speak or shout at length in a wild, impassioned way.
@@ -647,10 +647,10 @@ drunkard: a person who is habitually drunk.
 swig: a large gulp of drink.
 vintage: the year or place in which wine, especially wine of high quality, was produced.
 ruffled: disarranged
-incentivized : to make someone want to do something; motivate.
+incentivized: to make someone want to do something; motivate.
 slumber: sleep.
 stern: (of a person or their manner) serious and unrelenting, especially in the assertion of authority and exercise of discipline.
-consternate : fill (someone) with anxiety.
+consternate: fill (someone) with anxiety.
 behold: see or observe (a thing or person, especially a remarkable or impressive one).
 vice: immoral or wicked behavior.
 threescore: sixty
@@ -733,7 +733,7 @@ ethos: the characteristic spirit of a culture, era, or community as manifested i
 myriad: a countless or extremely great number.
 extinguish: to stop a fire or a light burning.
 cease: to stop something.
-notorious : famous or well known, typically for some bad quality or deed.
+notorious: famous or well known, typically for some bad quality or deed.
 prefabricate: manufacture (a building or piece of furniture) in sections to enable quick or easy assembly on site.
 vault 
 petty: of little importance; trivial.
@@ -858,8 +858,9 @@ detract: diminish the worth or value of (a quality or achievement); cause someon
 incision: a surgical cut made in skin or flesh.
 abdominal: relating to the abdomen/belly.
 enteric: relating to or occurring in the intestines; intestinal.
-bemuse:
-befuddle:
+bemuse: to slightly confuse someone.
+befuddle: to confuse someone.
+bewilder: bemuse.
 raspy: of sound Rough, raw, especially used to describe vocal quality.
 adrift: If a person is adrift, they do not have a clear purpose in life or know what they want to do.
 aid: to help
@@ -1114,4 +1115,6 @@ adamant: impossible to persuade, or unwilling to change an opinion or decision.
 delegate: a person chosen or elected by a group to speak, vote, etc. for them, especially at a meeting.
 corpulent: fat.
 peruse: to read through something, especially in order to find the part you are interested in.
-<div _ngcontent-oqa-c12="" class="word-container" style="margin-left: calc(50% - 6711.59px);"><div _ngcontent-oqa-c12="" class="word word-correct">novel</div><div _ngcontent-oqa-c12="" class="word word-correct">sky</div><div _ngcontent-oqa-c12="" class="word word-correct">walk</div><div _ngcontent-oqa-c12="" class="word word-correct">chair</div><div _ngcontent-oqa-c12="" class="word word-correct">abolish</div><div _ngcontent-oqa-c12="" class="word word-correct">yours</div><div _ngcontent-oqa-c12="" class="word word-correct">amenity</div><div _ngcontent-oqa-c12="" class="word word-correct">decrease</div><div _ngcontent-oqa-c12="" class="word word-correct">position</div><div _ngcontent-oqa-c12="" class="word word-correct">hang</div><div _ngcontent-oqa-c12="" class="word word-correct">deficit</div><div _ngcontent-oqa-c12="" class="word word-correct">approach</div><div _ngcontent-oqa-c12="" class="word word-correct">pose</div><div _ngcontent-oqa-c12="" class="word word-correct">thought</div><div _ngcontent-oqa-c12="" class="word word-correct">whisper</div><div _ngcontent-oqa-c12="" class="word word-correct">gather</div><div _ngcontent-oqa-c12="" class="word word-correct">nutshell</div><div _ngcontent-oqa-c12="" class="word word-correct">wary</div><div _ngcontent-oqa-c12="" class="word word-incorrect">organic</div><div _ngcontent-oqa-c12="" class="word word-incorrect">deliver</div><div _ngcontent-oqa-c12="" class="word word-correct">ubiquitous</div><div _ngcontent-oqa-c12="" class="word word-correct">anticipate</div><div _ngcontent-oqa-c12="" class="word word-correct">radio</div><div _ngcontent-oqa-c12="" class="word word-correct">unearth</div><div _ngcontent-oqa-c12="" class="word word-correct">culture</div><div _ngcontent-oqa-c12="" class="word word-correct">commensurate</div><div _ngcontent-oqa-c12="" class="word word-correct">chest</div><div _ngcontent-oqa-c12="" class="word word-correct">hunting</div><div _ngcontent-oqa-c12="" class="word word-correct">vessel</div><div _ngcontent-oqa-c12="" class="word word-correct">failure</div><div _ngcontent-oqa-c12="" class="word word-correct">activist</div><div _ngcontent-oqa-c12="" class="word word-correct">territory</div><div _ngcontent-oqa-c12="" class="word word-correct">painting</div><div _ngcontent-oqa-c12="" class="word word-correct">sparse</div><div _ngcontent-oqa-c12="" class="word word-correct">valuable</div><div _ngcontent-oqa-c12="" class="word word-correct">sport</div><div _ngcontent-oqa-c12="" class="word word-correct">bother</div><div _ngcontent-oqa-c12="" class="word word-correct">analysis</div><div _ngcontent-oqa-c12="" class="word word-correct">thwart</div><div _ngcontent-oqa-c12="" class="word">abundant</div><div _ngcontent-oqa-c12="" class="word">aide</div><div _ngcontent-oqa-c12="" class="word">negative</div><div _ngcontent-oqa-c12="" class="word">mm-hmm</div><div _ngcontent-oqa-c12="" class="word">complex</div><div _ngcontent-oqa-c12="" class="word">truly</div><div _ngcontent-oqa-c12="" class="word">primary</div><div _ngcontent-oqa-c12="" class="word">alliance</div><div _ngcontent-oqa-c12="" class="word">symbol</div><div _ngcontent-oqa-c12="" class="word">oxymoron</div><div _ngcontent-oqa-c12="" class="word">etc</div><div _ngcontent-oqa-c12="" class="word">dig</div><div _ngcontent-oqa-c12="" class="word">reporter</div><div _ngcontent-oqa-c12="" class="word">dozen</div><div _ngcontent-oqa-c12="" class="word">inclination</div><div _ngcontent-oqa-c12="" class="word">design</div><div _ngcontent-oqa-c12="" class="word">finding</div><div _ngcontent-oqa-c12="" class="word">including</div><div _ngcontent-oqa-c12="" class="word">sauce</div><div _ngcontent-oqa-c12="" class="word">then</div><div _ngcontent-oqa-c12="" class="word">corn</div><div _ngcontent-oqa-c12="" class="word">reveal</div><div _ngcontent-oqa-c12="" class="word">awareness</div><div _ngcontent-oqa-c12="" class="word">light</div><div _ngcontent-oqa-c12="" class="word">soon</div><div _ngcontent-oqa-c12="" class="word">nuisance</div><div _ngcontent-oqa-c12="" class="word">fifteen</div><div _ngcontent-oqa-c12="" class="word">cup</div><div _ngcontent-oqa-c12="" class="word">argument</div><div _ngcontent-oqa-c12="" class="word">fee</div><div _ngcontent-oqa-c12="" class="word">suspect</div><div _ngcontent-oqa-c12="" class="word">quality</div><div _ngcontent-oqa-c12="" class="word">take</div><div _ngcontent-oqa-c12="" class="word">stand</div><div _ngcontent-oqa-c12="" class="word">evidence</div><div _ngcontent-oqa-c12="" class="word">lack</div><div _ngcontent-oqa-c12="" class="word">entrance</div><div _ngcontent-oqa-c12="" class="word">especially</div><div _ngcontent-oqa-c12="" class="word">characterize</div><div _ngcontent-oqa-c12="" class="word">range</div><div _ngcontent-oqa-c12="" class="word">muster</div><div _ngcontent-oqa-c12="" class="word">alas</div><div _ngcontent-oqa-c12="" class="word">ear</div><div _ngcontent-oqa-c12="" class="word">load</div><div _ngcontent-oqa-c12="" class="word">used</div><div _ngcontent-oqa-c12="" class="word">independent</div><div _ngcontent-oqa-c12="" class="word">downtown</div><div _ngcontent-oqa-c12="" class="word">modest</div><div _ngcontent-oqa-c12="" class="word">brother</div><div _ngcontent-oqa-c12="" class="word">split</div><div _ngcontent-oqa-c12="" class="word">admission</div><div _ngcontent-oqa-c12="" class="word">paradox</div><div _ngcontent-oqa-c12="" class="word">highly</div><div _ngcontent-oqa-c12="" class="word">opening</div><div _ngcontent-oqa-c12="" class="word">panel</div><div _ngcontent-oqa-c12="" class="word">running</div><div _ngcontent-oqa-c12="" class="word">inept</div><div _ngcontent-oqa-c12="" class="word">capital</div><div _ngcontent-oqa-c12="" class="word">clean</div><div _ngcontent-oqa-c12="" class="word">tiny</div><div _ngcontent-oqa-c12="" class="word">prosecute</div><!----></div>
+oxymoron: two words or phrases used together that have, or seem to have, opposite meanings.
+paradox: a situation or statement that seems impossible or is difficult to understand because it contains two opposite facts or characteristics.
+feminism: a set of movements that aim for equaling sexes originally established to fix constituiton and rights for women, while later diverges to socio-political waves (sometimes outright extremist).

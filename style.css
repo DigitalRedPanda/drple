@@ -1,0 +1,51 @@
+
+.correct {
+  background-color: green!important;
+  border: 2px solid dimgrey!important;
+
+}
+
+.maybe {
+  background-color: orange!important;
+} 
+
+.wrong {
+  background-color: hsl(0, 100%, 21%)!important;
+  transform: translateX(25%);
+  border: 2px solid dimgrey!important;
+}
+
+body {
+  background-color: #303030;
+}
+
+#grid {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: grid;
+  place-content: center;
+  place-items: center;
+  grid-template-rows: repeat(6, 1fr);
+
+}
+
+.letterbox {
+  color: white;
+  font-family: sans-serif;
+  font-weight:600;
+  font-size: 20px;
+  display: flex;
+  margin: 2px;
+  justify-content: center;
+  align-items: center;
+  background-color: dimgray;
+  width: 50px;
+  height: 50px;
+  border-radius: 5px;
+  border: 2px solid grey;
+  transition: all 0.2s ease-out;
+}
+
+
