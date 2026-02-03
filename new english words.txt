@@ -1110,7 +1110,7 @@ interject: to say something while another person is speaking; interrupt.
 fervent: used to describe beliefs that are strongly and sincerely felt or people who have strong and sincere beliefs.
 inauspicious: showing signs that something will not be successful or positive.
 flimflam: talk that is confusing and intended to deceive.
-penitent: showing that you are sorry for something you have done because you feel it was wrong.
+penitent: showing that you are sorry for something you have done because you feel it was wrong; apologetic.
 adamant: impossible to persuade, or unwilling to change an opinion or decision.
 delegate: a person chosen or elected by a group to speak, vote, etc. for them, especially at a meeting.
 corpulent: fat.
@@ -1118,3 +1118,4 @@ peruse: to read through something, especially in order to find the part you are 
 oxymoron: two words or phrases used together that have, or seem to have, opposite meanings.
 paradox: a situation or statement that seems impossible or is difficult to understand because it contains two opposite facts or characteristics.
 feminism: a set of movements that aim for equaling sexes originally established to fix constituiton and rights for women, while later diverges to socio-political waves (sometimes outright extremist).
+mellifluous: having a satisfying sound; dulcet; sweet.
