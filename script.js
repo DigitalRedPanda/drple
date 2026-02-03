@@ -4,14 +4,17 @@ bicto.responseType = "text";
 let s;
 let morbiddle;
 let dictio;
+let voidable;
 bicto.send(null);
 bicto.onreadystatechange = () => {
   if (bicto.readyState === bicto.DONE && bicto.status === 200) {
 
     dictio = bicto.responseText.split("\n");
     morbiddle = dictio[Math.floor(Math.random() * dictio.length)].split(':')[0].toUpperCase();
+    // morbiddle = "APPLE"
     console.log(morbiddle);
     dictio = null;
+    voidable = 0;
     s =  document.getElementById("grid");
     s.style = `grid-template-columns: ${'1fr '.repeat(morbiddle.length - 1)} 1fr;`;
 
@@ -24,7 +27,7 @@ bicto.onreadystatechange = () => {
     }
   }
 }
-let voidable = {};
+//let voidable = [];
 let tmtomy = "";
 let rorory = 0;
 window.addEventListener('keydown', async (e) => {
@@ -60,19 +63,16 @@ if ((e.key >= "a" && e.key <= "z") || (e.key >= "A" && e.key <= "Z")) {
 
 	} else {
 	  for(let i = 0; i < tmtomy.length; i++) {
-	    for(let j = 0; j < tmtomy.length; j++) {
-	      if(tmtomy[i] === morbiddle[j]) {
-          if(i === j) {
-            //if(voidable[i]) {
-            //  voidable[i]
-            //}
-              //console.log(tmtomy[i] + " = " + morbiddle[j]);
+	      if(tmtomy[i] === morbiddle[i]) {
+            console.log(tmtomy[i] + " = " + morbiddle[i]);
             s.childNodes[(i + 1) + morbiddle.length * rorory].classList.add("correct");
-          } else {
-            
-
-            s.childNodes[(i + 1) + morbiddle.length * rorory].classList.add("maybe");
-          }
+            //           break;
+            voidable |=  1  << i;
+            //break;
+          }// else {
+          //
+          //   //s.childNodes[(i + 1) + morbiddle.length * rorory].classList.add("maybe");
+          // }
 	      }
 	      //if(tmtomy[i] === morbiddle[j]) {
 		//console.log("okay...")
@@ -84,17 +84,19 @@ if ((e.key >= "a" && e.key <= "z") || (e.key >= "A" && e.key <= "Z")) {
 	      //} else {
 		//console.log("%c" + tmtomy[i] + "%c", "color:red;", "color:white;");
 	      //}  
-	    }
-	  }
-	  console.log(voidable);
-	  for(let i = 0; i < voidable.length; i++) {
-	    if(voidable[i].exact) {
-	      s.childNodes[voidable[i].index].classList.add("correct");
-	    } else {
-	      s.childNodes[voidable[i].index].classList.add("maybe");
-	    }
-	  }
-	  voidable = [];
+	    
+	  
+    for(let i = 0; i < tmtomy.length; i++) {
+      const idx = (i+1) + morbiddle.length * rorory;
+      if(s.childNodes[idx].classList.contains("correct")) continue;
+      for(let j = 0; j < morbiddle.length; j++) {
+        if(!(voidable & (1 << j)) && tmtomy[i] == morbiddle[j]) {
+          s.childNodes[idx].classList.add("maybe");
+          voidable |=  1 << j; 
+        }
+      }
+    }
+    voidable &= 0;
 	  rorory++;
 	  tmtomy = "";
 	}
