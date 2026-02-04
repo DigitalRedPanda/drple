@@ -1119,3 +1119,4 @@ oxymoron: two words or phrases used together that have, or seem to have, opposit
 paradox: a situation or statement that seems impossible or is difficult to understand because it contains two opposite facts or characteristics.
 feminism: a set of movements that aim for equaling sexes originally established to fix constituiton and rights for women, while later diverges to socio-political waves (sometimes outright extremist).
 mellifluous: having a satisfying sound; dulcet; sweet.
+gale: turbulent wind; strong wind.
