@@ -5,6 +5,24 @@
 
 }
 
+@font-face {
+  font-family : bitsy;
+  src: url(edited-bitsy-font.otf)
+}
+
+header {
+  position: absolute;
+  font-size: 10vh;
+  top: 5%;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  color: green;
+  -webkit-text-stroke: black 0.4vh;
+  font-family: bitsy;
+}
+
+
+
 .maybe {
   background-color: orange!important;
 } 
@@ -15,9 +33,15 @@
   border: 2px solid dimgrey!important;
 }
 
+#container {
+  transition: opacity 1s ease-out;
+}
+
 body {
   background-color: #303030;
 }
+
+
 
 #grid {
   position: absolute;
@@ -28,14 +52,40 @@ body {
   place-content: center;
   place-items: center;
   grid-template-rows: repeat(6, 1fr);
+}
 
+#summary {
+  position: absolute;
+  display: flex;
+  z-index: 0;
+  width: 25vw;
+  height: 50vh;
+  background-color: rgba(105,105,105, 0.8) !important;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  font-family: sans-serif;
+  flex-direction: column;
+  padding: 2vh;
+  border: 0.3vw solid grey;
+  border-radius: 20px;
+  color: white;
+  font-size: 1.3rem;
+}
+#summary > * {
+  color: rgba(255,255,255,1)!important;
+  font-family: sans-serif;
+  font-weight:600;
 }
 
 .letterbox {
   color: white;
   font-family: sans-serif;
   font-weight:600;
-  font-size: 20px;
+  font-size: 1.3rem;
   display: flex;
   margin: 2px;
   justify-content: center;
@@ -48,4 +98,49 @@ body {
   transition: all 0.2s ease-out;
 }
 
+.letterbox > input {
+  background-color: transparent;
+  border: 0px transparent;
+  color: transparent;
+}
 
+.message {
+  text-align: center;
+  justify-content: center;
+  font-size: 1.3rem;
+}
+
+.closing {
+  background-color: transparent;
+  font-size: 1.3rem;
+  transition: background-color 0.2s ease-out;
+  width: fit-content;
+  height: fit-content;
+}
+
+.close-button {
+  height: 50px;
+  width: 50px;
+  display: block;
+  transition: filter 0.2s ease-out;
+}
+
+.button-list {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: transparent;
+  flex-direction: row;
+  gap: 1vw;
+
+}
+
+.close-button:hover {
+  filter: sepia(100%);
+}
+
+.closing:hover {
+  background-color: rgba(124,124,124,0.3); 
+}
